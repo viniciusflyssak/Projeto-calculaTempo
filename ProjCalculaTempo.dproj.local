@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 18:02:09.000.287,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 01:40:33.000.716,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/31 10:57:11.000.463,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 18:09:19.000.238,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 18:15:25.000.650,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\frmPrincipal.dfm</Transaction>
+    <Transaction>2022/06/21 18:15:25.000.650,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\frmPrincipal.pas</Transaction>
+    <Transaction>2022/06/21 18:16:23.000.625,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\CalculaTempo\ProjCalculaTempo.dproj</Transaction>
+    <Transaction>2022/06/21 18:17:12.000.123,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\frmPrincipal.pas=</Transaction>
+    <Transaction>2022/06/21 18:18:49.000.583,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\CalculaTempo\frmPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>
